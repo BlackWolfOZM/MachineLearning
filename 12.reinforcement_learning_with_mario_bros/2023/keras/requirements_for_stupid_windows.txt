@@ -1,6 +1,6 @@
 gym-super-mario-bros
 
-tensorflow==2.10
+tensorflow==2.12.0
 tensorflow_hub
 transformers
 
