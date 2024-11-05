@@ -1,3 +1,5 @@
 paddlepaddle >= 2.1.0
 ppgan >= 2.0.0
 wechaty ~= 0.7dev16
+quart>=0.19.7 # not directly required, pinned by Snyk to avoid a vulnerability
+werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
