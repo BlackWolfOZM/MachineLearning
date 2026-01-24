@@ -11,3 +11,5 @@ tensorflow_hub
 # torch
 # torchvision
 # torchaudio
+pyasn1>=0.6.2 # not directly required, pinned by Snyk to avoid a vulnerability
+wheel>=0.46.2 # not directly required, pinned by Snyk to avoid a vulnerability
